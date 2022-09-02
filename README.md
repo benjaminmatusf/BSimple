@@ -1,0 +1,2 @@
+# BSimple
+Proyecto laravel
