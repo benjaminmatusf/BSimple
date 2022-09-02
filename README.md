@@ -10,7 +10,7 @@ Programas requisitos:
 2.- XAMPP https://www.apachefriends.org/es/index.html
 
 
-Instrucciones de instalación en S.O. Windows:
+Instrucciones de instalación local de la aplicación web en S.O. Windows:
 
 1.- Abrir programa XAMPP y ejecutar los servicios de Apache y MySQL https://www.apachefriends.org/es/index.html
 
