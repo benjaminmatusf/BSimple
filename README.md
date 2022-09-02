@@ -1,6 +1,7 @@
 # BSimple
 
-Proyecto creado utilizando el framework Laravel
+Proyecto creado con el framework Laravel capaz de registrar información escencial de una empresa, 
+empleando un sistema de roles y permisos que permiten al administrador dar o no acceso a ciertas funciones a los distintos usuarios.
 
 
 Programas requisitos:
